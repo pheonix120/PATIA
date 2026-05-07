@@ -1,3 +1,4 @@
+Benoit SION
 # Planification Automatique et Intelligence Artificielle 2026
 
 ## Recherche dans un espace d'états 
