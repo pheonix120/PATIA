@@ -29,7 +29,7 @@ Une courbe de comparaison des performances des algorithmes se trouve dans le fic
 Tour de Hanoi
 Les fichiers de domaine et de problème se trouvent dans le dossier pddl/hanoi \
 Jeu de Taquin\
-Les fichiers de domaine et de problème se trouvent dans le dossier pddl/npuzzle \
+Les fichiers de domaine et de problème se trouvent dans le dossier pddl/npuzzle 
 
 Pour lancer un test, tapez dans la ligne de commande : \
 *./pddl4j.sh*
