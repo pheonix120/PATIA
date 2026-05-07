@@ -5,9 +5,9 @@
 ### Jeu de Taquin
 
 Le code du jeu de Taquin se trouve dans le dossier n-puzzle
-Les exemples de puzzles sont dans le dossier n-puzzle/puzzles
-Pour lancer une résolution de puzzle, taper dans la ligne de commande
-python3 /solve_npuzzle.py -a ['bfs', 'dfs', 'astar'] 
+Les exemples de puzzles sont dans le dossier *n-puzzle/puzzles*
+Pour lancer une résolution de puzzle, taper dans la ligne de commande :
+*python3 /solve_npuzzle.py -a ['bfs', 'dfs', 'astar']*
 Les algorithmes de recherche qui marchent sont *'bfs', 'dfs', 'astar'*. J'ai essayé de réimplémenter IDDFS, mais il ne marche pas, je n'ai pas eu le temps de le refaire. 
 
 Un etat solution est de la forme *0 1 2 3 4 5 6 7 8* pour un taquin 3x3.
